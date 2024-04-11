@@ -9,7 +9,7 @@ int main() {
 	srand(time(0));
 
 	string line;
-	line = "I dont give a Holstein for programmers that can only spell a variable one way. (Dr. Stephany) ";
+	line = "I dont give a Holstein for programmers that can only spell a variable one way. ( Dr. Stephany ) ";
 
 	string word;
 	bool wordStart = false;
